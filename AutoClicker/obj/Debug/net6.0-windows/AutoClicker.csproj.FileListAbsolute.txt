@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.exe
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.deps.json
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.runtimeconfig.json
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.dll
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\bin\Debug\net6.0-windows\ref\AutoClicker.dll
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\bin\Debug\net6.0-windows\AutoClicker.pdb
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.Form1.resources
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.dll
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\ref\AutoClicker.dll
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.pdb
+C:\Users\Dell\source\repos\Selenium_Test\AutoClicker\obj\Debug\net6.0-windows\AutoClicker.genruntimeconfig.cache
